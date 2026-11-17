@@ -8,6 +8,34 @@
 
 ---
 
+## 界面
+
+<p align="center">
+  <img src="docs/screenshots/07-popup.png" width="360" alt="工具栏弹窗">
+</p>
+
+<p align="center"><sub>工具栏弹窗：翻译语言、显示模式、模型、翻译范围</sub></p>
+
+![翻译窗口](docs/screenshots/09-reader-translated.png)
+
+<p align="center"><sub>翻译窗口：左侧原文、右侧译文，真实 DeepSeek 翻译结果</sub></p>
+
+### 设置页
+
+| 模型服务 | 添加模型服务 |
+|---|---|
+| ![模型服务](docs/screenshots/01-settings-providers.png) | ![添加模型服务](docs/screenshots/10-add-provider.png) |
+
+| AI 专家 | 视频字幕 |
+|---|---|
+| ![AI 专家](docs/screenshots/02-settings-roles.png) | ![视频字幕](docs/screenshots/05-settings-subtitles.png) |
+
+| 快捷键 | 页面设置 | 本机缓存 |
+|---|---|---|
+| ![快捷键](docs/screenshots/03-settings-shortcuts.png) | ![页面设置](docs/screenshots/04-settings-page.png) | ![本机缓存](docs/screenshots/06-settings-cache.png) |
+
+---
+
 ## 功能
 
 ### 网页翻译
@@ -152,6 +180,8 @@ dist/
 ├── assets/                # 打包的 JS、CSS、字体、图标、服务商 Logo
 ├── licenses/              # 字体许可全文
 └── INSTALL.txt            # 安装与更新说明
+
+docs/screenshots/          # README 界面截图（实际运行截取）
 ```
 
 ---
