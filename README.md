@@ -10,29 +10,19 @@
 
 ## 界面
 
-<p align="center">
-  <img src="docs/screenshots/07-popup.png" width="360" alt="工具栏弹窗">
-</p>
+**添加模型服务** — 选择预设，填入自己的 API Key 即可使用
 
-<p align="center"><sub>工具栏弹窗：翻译语言、显示模式、模型、翻译范围</sub></p>
+![添加模型服务](docs/screenshots/01-add-provider.png)
 
-![翻译窗口](docs/screenshots/09-reader-translated.png)
+**网页翻译** — 双语对照，原文与译文逐段对应
 
-<p align="center"><sub>翻译窗口：左侧原文、右侧译文，真实 DeepSeek 翻译结果</sub></p>
+![网页翻译](docs/screenshots/02-page-translation.png)
 
-### 设置页
+**翻译窗口** — 支持浅色与深色两种阅读模式
 
-| 模型服务 | 添加模型服务 |
+| 浅色 | 深色 |
 |---|---|
-| ![模型服务](docs/screenshots/01-settings-providers.png) | ![添加模型服务](docs/screenshots/10-add-provider.png) |
-
-| AI 专家 | 视频字幕 |
-|---|---|
-| ![AI 专家](docs/screenshots/02-settings-roles.png) | ![视频字幕](docs/screenshots/05-settings-subtitles.png) |
-
-| 快捷键 | 页面设置 | 本机缓存 |
-|---|---|---|
-| ![快捷键](docs/screenshots/03-settings-shortcuts.png) | ![页面设置](docs/screenshots/04-settings-page.png) | ![本机缓存](docs/screenshots/06-settings-cache.png) |
+| ![浅色模式](docs/screenshots/03-reader-light.png) | ![深色模式](docs/screenshots/04-reader-dark.png) |
 
 ---
 
