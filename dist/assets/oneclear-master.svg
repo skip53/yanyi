@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <title>OneClear 盐译 — 04 主图标</title>
+  <desc>冰蓝圆角底，几何土卜结构，蓝色盐容器、白色结晶和浅蓝波形。</desc>
+  <defs>
+    <linearGradient id="blue" x1="30" y1="26" x2="98" y2="106" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123B83"/><stop offset="1" stop-color="#258AF5"/>
+    </linearGradient>
+    <clipPath id="bowl-clip"><rect x="24" y="66" width="80" height="38" rx="11"/></clipPath>
+  </defs>
+  <g id="background"><rect x="4" y="4" width="120" height="120" rx="27" fill="#F3F9FF"/></g>
+  <g id="salt-character-top" fill="url(#blue)">
+    <rect x="41" y="24" width="10" height="32" rx="3"/>
+    <rect x="28" y="34" width="36" height="9" rx="3"/>
+    <rect x="26" y="51" width="40" height="9" rx="3"/>
+    <rect x="75" y="24" width="10" height="36" rx="3"/>
+    <path d="M88 34.5a3 3 0 0 1 4.2-.5l10 8a3 3 0 0 1 .5 4.2l-2 2.5a3 3 0 0 1-4.2.5l-10-8a3 3 0 0 1-.5-4.2z"/>
+  </g>
+  <g id="salt-container">
+    <rect x="24" y="66" width="80" height="38" rx="11" fill="url(#blue)"/>
+    <g clip-path="url(#bowl-clip)">
+      <path id="salt-mound" d="M35 94 49 82Q51 80 53 82L58 85 67 75Q69 73 71 75L91 94Z" fill="#FFFFFF"/>
+      <path id="water-wave" d="M24 93Q37 88 51 94T78 94T104 92V106H24Z" fill="#9EDCFF"/>
+    </g>
+    <rect id="crystal-left" x="38" y="75" width="4" height="4" rx="1" fill="#FFFFFF" transform="rotate(15 40 77)"/>
+    <rect id="crystal-right" x="83" y="75" width="5" height="5" rx="1" fill="#FFFFFF" transform="rotate(25 85.5 77.5)"/>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+{
+  "package": "@lobehub/icons-static-svg",
+  "version": "1.95.0",
+  "license": "MIT",
+  "sources": [
+    {
+      "id": "deepseek",
+      "name": "deepseek-color",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/deepseek-color.svg",
+      "catalog": "https://lobehub.com/icons/deepseek"
+    },
+    {
+      "id": "openai",
+      "name": "openai",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/openai.svg",
+      "catalog": "https://lobehub.com/icons/openai"
+    },
+    {
+      "id": "claude",
+      "name": "claude-color",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/claude-color.svg",
+      "catalog": "https://lobehub.com/icons/claude"
+    },
+    {
+      "id": "qwen",
+      "name": "qwen-color",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/qwen-color.svg",
+      "catalog": "https://lobehub.com/icons/qwen"
+    },
+    {
+      "id": "kimi",
+      "name": "kimi",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/kimi.svg",
+      "catalog": "https://lobehub.com/icons/kimi"
+    },
+    {
+      "id": "silicon",
+      "name": "siliconcloud-color",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/siliconcloud-color.svg",
+      "catalog": "https://lobehub.com/icons/siliconcloud"
+    },
+    {
+      "id": "openrouter",
+      "name": "openrouter",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/openrouter.svg",
+      "catalog": "https://lobehub.com/icons/openrouter"
+    },
+    {
+      "id": "gemini",
+      "name": "gemini-color",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/gemini-color.svg",
+      "catalog": "https://lobehub.com/icons/gemini"
+    },
+    {
+      "id": "minimax",
+      "name": "minimax-color",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/minimax-color.svg",
+      "catalog": "https://lobehub.com/icons/minimax"
+    }
+  ]
+}

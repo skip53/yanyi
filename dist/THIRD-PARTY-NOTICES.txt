@@ -1,0 +1,22 @@
+图形资源说明
+
+模型 Logo：Lobe Icons (@lobehub/icons-static-svg 1.95.0)
+https://lobehub.com/icons
+https://github.com/lobehub/lobe-icons
+许可见 LOBE-ICONS-LICENSE.txt。
+使用的本地文件：assets/ 下的 deepseek、openai、claude、qwen、kimi、silicon（SiliconCloud）、openrouter、gemini、minimax SVG。
+逐项下载来源与对应目录页见 assets/logo-sources.json。所有图标随扩展打包，不在运行时访问 CDN。
+
+翻译图标：Phosphor Icons
+https://github.com/phosphor-icons/core
+许可见 PHOSPHOR-LICENSE.txt。
+assets/translate.svg 及调整颜色、尺寸后的 icon-*.png。
+
+模型与服务商名称、Logo 用于识别用户所连接的服务，不表示品牌授权或合作。
+插件不打包原插件的分发代码。
+
+Oneclear brand icons: user-supplied oneclear-icons assets (2026-09-10). Master and small SVG sources are included. Provider logos retain their original branding.
+
+2026-09 UI 更新：界面图标 assets/ui/*.svg 与 popup/options 内联 SVG 使用 Lucide (ISC)，统一 1.5px 描边。
+字体：Inter Variable、JetBrains Mono (SIL OFL)，随扩展本地打包，无运行时 CDN 请求。
+许可全文见 licenses/。
